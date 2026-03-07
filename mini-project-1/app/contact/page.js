@@ -10,6 +10,9 @@ const Contact = () => {
           soon as possible.
         </p>
       </div>
+
+
+
      
    
         <div className=" max-w-2xl mx-auto px-4  py-8 ">
